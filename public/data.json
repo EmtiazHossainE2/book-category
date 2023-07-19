@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "1",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Fiction",
+    "publicationDate": "April 10, 1925",
+    "img": "https://i.ibb.co/vVMsPnp/printpress-product-2.jpg"
+  },
+  {
+    "_id": "2",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "publicationDate": "July 11, 1960",
+    "img": "https://i.ibb.co/CnwhFFC/printpress-product-6.jpg"
+  },
+  {
+    "_id": "3",
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Fiction",
+    "publicationDate": "June 8, 1949",
+    "img": "https://i.ibb.co/JK9n7HY/printpress-product-5.jpg"
+  },
+  {
+    "_id": "4",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Fiction",
+    "publicationDate": "January 28, 1813",
+    "img": "https://i.ibb.co/vVMsPnp/printpress-product-7.jpg"
+  },
+  {
+    "_id": "5",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "publicationDate": "September 21, 1937",
+    "img": "https://i.ibb.co/vVMsPnp/printpress-product-2.jpg"
+  },
+  {
+    "_id": "6",
+    "title": "To Kill a Kingdom",
+    "author": "Alexandra Christo",
+    "genre": "Young Adult",
+    "publicationDate": "March 6, 2018",
+    "img": "https://i.ibb.co/vVMsPnp/printpress-product-2.jpg"
+  },
+  {
+    "_id": "7",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction",
+    "publicationDate": "July 16, 1951",
+    "img": "https://i.ibb.co/vVMsPnp/printpress-product-2.jpg"
+  },
+  {
+    "_id": "8",
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "publicationDate": "July 29, 1954",
+    "img": "https://i.ibb.co/WFSrm35/shop-6.jpg"
+  },
+  {
+    "_id": "9",
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "genre": "Fiction",
+    "publicationDate": "February 26, 1932",
+    "img": "https://i.ibb.co/hfqJYLd/shop-11.jpg"
+  },
+  {
+    "_id": "10",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Fiction",
+    "publicationDate": "1988",
+    "img": "https://i.ibb.co/vVMsPnp/printpress-product-2.jpg"
+  }
+]
